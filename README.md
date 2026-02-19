@@ -219,15 +219,6 @@ Edit the variables at the top of `keepalive.sh`:
 
 ---
 
-## `archive/`
-
-Contains reference notes and scripts that have been set aside.
-
-- **`archive.md`** — Documents aliases that conflict with existing oh-my-zsh / git plugin definitions (e.g. `gco`, `gst`, `glog`) and navigation aliases already provided by zsh itself (`..`, `...`, `ll`). Useful as a reference to avoid re-defining things your shell already handles.
-- **`git-helpers.sh`**, **`fzf-tools.sh`**, **`iterm-tools.sh`** — Extended git workflow, fzf-powered fuzzy tools, and iTerm2 integrations. Archived for reference; cherry-pick anything useful.
-
----
-
 ## Requirements
 
 | Tool         | Required by                  | Install                                     |
