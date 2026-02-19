@@ -1,4 +1,4 @@
-# shell-utils
+# shell-utilities
 
 A collection of zsh / iTerm2 shell scripts for developer productivity I've created and have been using for some time now.
 Each script is self-contained and ships with a built-in installer that appends the necessary `source` line to your `~/.zshrc`.
