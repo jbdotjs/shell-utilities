@@ -12,8 +12,7 @@ shell-utils/
 ├── functions.sh              # Developer utility functions
 ├── claude-keepalive/
 │   └── keepalive.sh          # Keeps a Claude.ai usage window active
-└── archive/                  # Reference material & archived scripts
-    └── archive.md            # Notes on aliases that conflict with zsh/git plugins
+
 ```
 
 ---
